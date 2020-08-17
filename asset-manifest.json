@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/toosmate-web/static/css/main.5f361e03.chunk.css",
+    "main.js": "/toosmate-web/static/js/main.95f57981.chunk.js",
+    "main.js.map": "/toosmate-web/static/js/main.95f57981.chunk.js.map",
+    "runtime-main.js": "/toosmate-web/static/js/runtime-main.20436f7a.js",
+    "runtime-main.js.map": "/toosmate-web/static/js/runtime-main.20436f7a.js.map",
+    "static/js/2.bd24de33.chunk.js": "/toosmate-web/static/js/2.bd24de33.chunk.js",
+    "static/js/2.bd24de33.chunk.js.map": "/toosmate-web/static/js/2.bd24de33.chunk.js.map",
+    "index.html": "/toosmate-web/index.html",
+    "precache-manifest.4b8e9ec1e6b4609b4d30b72ce61e44de.js": "/toosmate-web/precache-manifest.4b8e9ec1e6b4609b4d30b72ce61e44de.js",
+    "service-worker.js": "/toosmate-web/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/toosmate-web/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.bd24de33.chunk.js.LICENSE.txt": "/toosmate-web/static/js/2.bd24de33.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20436f7a.js",
+    "static/js/2.bd24de33.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.95f57981.chunk.js"
+  ]
+}
