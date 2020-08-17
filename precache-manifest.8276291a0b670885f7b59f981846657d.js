@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4f30e582750f5be22227c482edfb8329",
+    "revision": "ed7abd560fd7b74e284aff256ea84b3c",
     "url": "/toosmate-web/index.html"
   },
   {
-    "revision": "fb436b24bd8e43dfc543",
+    "revision": "2bcb0881334c86150012",
     "url": "/toosmate-web/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/toosmate-web/static/js/2.bd24de33.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fb436b24bd8e43dfc543",
-    "url": "/toosmate-web/static/js/main.95f57981.chunk.js"
+    "revision": "2bcb0881334c86150012",
+    "url": "/toosmate-web/static/js/main.e9c510f1.chunk.js"
   },
   {
     "revision": "e751e8d787a8cd82da7e",

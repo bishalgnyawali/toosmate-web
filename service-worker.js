@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/toosmate-web/precache-manifest.4b8e9ec1e6b4609b4d30b72ce61e44de.js"
+  "/toosmate-web/precache-manifest.8276291a0b670885f7b59f981846657d.js"
 );
 
 self.addEventListener('message', (event) => {
